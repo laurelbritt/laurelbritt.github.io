@@ -38,11 +38,16 @@
 			<div class="footer-grids1">
 				<div class="footer-grids1-left animated wow slideInLeft">
                     <ul>
-						<li class="active"><a href="index.html">Home</a></li>
-                        <!-- <li><a href="research.html">Research</a></li> -->
-						<li><a href="images/Resume.pdf">Resume</a></li>
-						<li><a href="https://arxiv.org/a/gunn_s_1.html">Presentations</a></li>
-						<!-- <li><a href="#Contact">Contact</a></li> -->
+						<li><a href="BrittResume2021.pdf">Resume</a></li>
+						<li><a href=".pdf">Writing Sample</a></li>
+						<li><a href="">Reading Group Presentations</a></li>
+			        		<ul>
+      							<li> Galí, Jordi. 2014. "Monetary Policy and Rational Asset Price Bubbles."</li>
+      							<li> A survey of rational housing bubbles</li>
+							<li> "The Slope of the Phillips Curve: Evidence from U.S. States"</li>
+
+    						</ul>
+			    
 					</ul>
 	
 
