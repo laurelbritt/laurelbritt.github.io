@@ -1,4 +1,6 @@
-
+---
+layout: default
+---
 <!-- //banner -->
 <!-- about -->
 <div class="about">
