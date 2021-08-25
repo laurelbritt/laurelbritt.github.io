@@ -46,9 +46,7 @@
       							<li> A survey of rational housing bubbles</li>
 							<li> "The Slope of the Phillips Curve: Evidence from U.S. States"</li>
 
-    						</ul>
-			    
-					</ul>
+    					
 	
 
 	
