@@ -44,7 +44,7 @@
 			        		<ul>
       							<li> Galí, Jordi. 2014. "Monetary Policy and Rational Asset Price Bubbles."</li>
       							<li> A survey of rational housing bubbles</li>
-							<li> Hazell, et al. 2021 "The Slope of the Phillips Curve: Evidence from U.S. States"</li>
+							<li> Hazell, et al.: 2021 "The Slope of the Phillips Curve: Evidence from U.S. States"</li>
 
     					
 	
