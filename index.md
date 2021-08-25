@@ -93,22 +93,4 @@
 	</div>
 <!-- //footer -->
 <!-- for bootstrap working -->
-	<script src="js/bootstrap.js"></script>
-<!-- //for bootstrap working -->
-<!-- here stars scrolling icon -->
-	<script>
-		$(document).ready(function() {
-			/*
-				var defaults = {
-				containerID: 'toTop', // fading element id
-				containerHoverID: 'toTopHover', // fading element hover id
-				scrollSpeed: 1200,
-				easingType: 'linear' 
-				};
-			*/
-								
-			$().UItoTop({ easingType: 'easeOutQuart' });
-								
-			});
-	</script>
-<!-- //here ends scrolling icon -->
+	
