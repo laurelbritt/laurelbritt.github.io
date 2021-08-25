@@ -1,37 +1,114 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/laurelbritt/laurelbritt.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+	
+<!-- header -->
+	<div class="header">
+		<div class="container">
+			<nav class="navbar navbar-default">
+				<!-- Brand and toggle get grouped for better mobile display -->
+				<div class="navbar-header">
+				  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				  </button>
+					<div class="logo">
+                      <!-- <h1><a class="navbar-brand" href="index.html">Sam Gunn</a></h1> -->
+                      <h1><a class="navbar" style="color: #000000" href="index.html">Laurel Britt</a></h1>
+					</div>
+				</div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/laurelbritt/laurelbritt.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+				<!-- Collect the nav links, forms, and other content for toggling -->
+				<div class="collapse navbar-collapse nav-wil" id="bs-example-navbar-collapse-1">
+					<nav class="menu menu--francisco">
+						<ul class="nav navbar-nav menu__list">
+							<li class="menu__item menu__item--current"><a href="index.html" class="menu__link"><span class="menu__helper">Home</span></a></li>
+                            <!-- <li class="menu__item"><a href="research.html" class="menu__link"><span class="menu__helper">Research</span></a></li> -->
+							<li class="menu__item"><a href="BrittResume2021.pdf" class="menu__link" target="_blank"><span class="menu__helper">Resume</span></a></li>
+							<li class="menu__item"><a href="https://arxiv.org/a/gunn_s_1.html" class="menu__link" target="_blank"><span class="menu__helper">Presentations</span></a></li>
+							<!-- <li class="menu__item"><a href="#Contact" class="menu__link"><span class="menu__helper">Contact</span></a></li> -->
+						</ul>
+					</nav>
+				</div>
+				<!-- /.navbar-collapse -->
+			</nav>
+		</div>
+	</div>
+<!-- //header -->
+<!-- banner -->
+	<div class="banner1">
+	</div>
+<!-- //banner -->
+<!-- about -->
+<div class="about">
+    <div class="container">
+        <div class="about-grids">
+            <div class="col-md-6 about-grids-left">
+                <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                    <div class="panel panel-default">
+                        <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel">
+                            <div class="panel-body panel_text">
+                              <p>I am a senior research assistant at the Federal Reserve Board of Governors, where I am involved in projects related to financial stability and macroeconomics. I studied math and economics at UT Austin, where I was fortunate to be advised by <a href="https://lberalarts.utexas.edu/economics/faculty/mbs31415/">Max Stinchcombe</a>.</p>
+                              <br>
+                              <p>I'm generally interested in macroeconomics, in particular equity bubbles and DSGE models.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 about-grids-right animated wow slideInRight" data-wow-delay="0s">
+                <img src="me.png" alt=" " class="img-responsive" width="300" height="300"/>
+            </div>
+            <div class="clearfix"> </div>
+        </div>
+    </div>
+</div>
+<!-- //about -->
+<!-- footer -->
+<div class="footer">
+		<div class="container">
+			<div class="footer-grids">
+				<div class="col-md-4 footer-grid animated wow slideInLeft" data-wow-delay="0s">
+                    <h3>Contact</h3>
+                    <p>my last name @cs.berkeley.edu</p>
+				</div>
+                <div class="clearfix"> </div>
+			</div>
+			<div class="footer-grids1">
+				<div class="footer-grids1-left animated wow slideInLeft">
+                    <ul>
+						<li class="active"><a href="index.html">Home</a></li>
+                        <!-- <li><a href="research.html">Research</a></li> -->
+						<li><a href="images/Resume.pdf">Resume</a></li>
+						<li><a href="https://arxiv.org/a/gunn_s_1.html">Presentations</a></li>
+						<!-- <li><a href="#Contact">Contact</a></li> -->
+					</ul>
+				</div>
+				<div class="footer-grids1-right">
+					<p class="animated wow slideInRight" data-wow-delay="0s">Last updated August 2021.
+				</div>
+				<div class="clearfix"> </div>
+			</div>
+		</div>
+	</div>
+<!-- //footer -->
+<!-- for bootstrap working -->
+	<script src="js/bootstrap.js"></script>
+<!-- //for bootstrap working -->
+<!-- here stars scrolling icon -->
+	<script>
+		$(document).ready(function() {
+			/*
+				var defaults = {
+				containerID: 'toTop', // fading element id
+				containerHoverID: 'toTopHover', // fading element hover id
+				scrollSpeed: 1200,
+				easingType: 'linear' 
+				};
+			*/
+								
+			$().UItoTop({ easingType: 'easeOutQuart' });
+								
+			});
+	</script>
+<!-- //here ends scrolling icon -->
