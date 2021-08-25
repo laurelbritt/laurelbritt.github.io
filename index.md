@@ -1,43 +1,4 @@
 
-	
-<!-- header -->
-	<div class="header">
-		<div class="container">
-			<nav class="navbar navbar-default">
-				<!-- Brand and toggle get grouped for better mobile display -->
-				<div class="navbar-header">
-				  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-					<span class="sr-only">Toggle navigation</span>
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
-				  </button>
-					<div class="logo">
-                      <!-- <h1><a class="navbar-brand" href="index.html">Sam Gunn</a></h1> -->
-                      <h1><a class="navbar" style="color: #000000" href="index.html">Laurel Britt</a></h1>
-					</div>
-				</div>
-
-				<!-- Collect the nav links, forms, and other content for toggling -->
-				<div class="collapse navbar-collapse nav-wil" id="bs-example-navbar-collapse-1">
-					<nav class="menu menu--francisco">
-						<ul class="nav navbar-nav menu__list">
-							<li class="menu__item menu__item--current"><a href="index.html" class="menu__link"><span class="menu__helper">Home</span></a></li>
-                            <!-- <li class="menu__item"><a href="research.html" class="menu__link"><span class="menu__helper">Research</span></a></li> -->
-							<li class="menu__item"><a href="BrittResume2021.pdf" class="menu__link" target="_blank"><span class="menu__helper">Resume</span></a></li>
-							<li class="menu__item"><a href="https://arxiv.org/a/gunn_s_1.html" class="menu__link" target="_blank"><span class="menu__helper">Presentations</span></a></li>
-							<!-- <li class="menu__item"><a href="#Contact" class="menu__link"><span class="menu__helper">Contact</span></a></li> -->
-						</ul>
-					</nav>
-				</div>
-				<!-- /.navbar-collapse -->
-			</nav>
-		</div>
-	</div>
-<!-- //header -->
-<!-- banner -->
-	<div class="banner1">
-	</div>
 <!-- //banner -->
 <!-- about -->
 <div class="about">
