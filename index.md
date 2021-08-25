@@ -9,7 +9,7 @@
                     <div class="panel panel-default">
                         <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel">
                             <div class="panel-body panel_text">
-                              <p>I am a senior research assistant at the Federal Reserve Board of Governors, where I am involved in projects related to financial stability and macroeconomics. I studied math and economics at UT Austin, where I was fortunate to be advised by <a href="https://lberalarts.utexas.edu/economics/faculty/mbs31415/">Max Stinchcombe</a>.</p>
+                              <p>I am a senior research assistant at the Federal Reserve Board of Governors, where I am involved in projects related to financial stability and macroeconomics. I studied math and economics at UT Austi n, where I was fortunate to be advised by <a href="https://lberalarts.utexas.edu/economics/faculty/mbs31415/">Max Stinchcombe</a>.</p>
                               <br>
                               <p>I'm generally interested in macroeconomics, in particular equity bubbles and DSGE models.</p>
                             </div>
