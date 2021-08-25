@@ -40,9 +40,9 @@
                     <ul>
 						<li><a href="BrittResume2021.pdf">Resume</a></li>
 						<li><a href=".pdf">Writing Sample</a></li>
-						<li><a href="">Reading Group Presentations</a></li>
+						<li>Reading Group Presentations</li>
 			        		<ul>
-      							<li> Galí, Jordi. 2014. "Monetary Policy and Rational Asset Price Bubbles."</li>
+      							<li> <a href="">Galí, Jordi. 2014. "Monetary Policy and Rational Asset Price Bubbles."</a></li>
       							<li> A survey of rational housing bubbles</li>
 							<li> Hazell, et al.: 2021 "The Slope of the Phillips Curve: Evidence from U.S. States"</li>
 
