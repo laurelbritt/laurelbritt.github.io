@@ -44,10 +44,6 @@
 						<li><a href="https://arxiv.org/a/gunn_s_1.html">Presentations</a></li>
 						<!-- <li><a href="#Contact">Contact</a></li> -->
 					</ul>
-				</div>
-				<div class="footer-grids1-right">
-					<p class="animated wow slideInRight" data-wow-delay="0s">Last updated August 2021.
-				</div>
-				<div class="clearfix"> </div>
+	
 
 	
