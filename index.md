@@ -49,9 +49,5 @@
 					<p class="animated wow slideInRight" data-wow-delay="0s">Last updated August 2021.
 				</div>
 				<div class="clearfix"> </div>
-			</div>
-		</div>
-	</div>
-<!-- //footer -->
-<!-- for bootstrap working -->
+
 	
