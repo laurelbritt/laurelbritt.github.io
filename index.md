@@ -1,6 +1,4 @@
----
-layout: default
----
+
 <!-- //banner -->
 <!-- about -->
 <div class="about">
@@ -13,7 +11,7 @@ layout: default
                             <div class="panel-body panel_text">
                               <p>I am a senior research assistant at the Federal Reserve Board of Governors, where I am involved in projects related to financial stability and macroeconomics. I studied math and economics at UT Austin, where I was fortunate to be advised by <a href="https://lberalarts.utexas.edu/economics/faculty/mbs31415/">Max Stinchcombe</a>.</p>
                               <br>
-                              <p>I'm generally interested in macroeconomics, in particular equity bubbles and DSGE models.</p>
+                              <p>I'm generallly interested in macroeconomics, in particular equity bubbles and DSGE models.</p>
                             </div>
                         </div>
                     </div>
