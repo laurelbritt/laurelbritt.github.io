@@ -18,7 +18,7 @@
                 </div>
             </div>
             <div class="col-md-6 about-grids-right animated wow slideInRight" data-wow-delay="0s">
-                <img src="me.png" alt=" " class="img-responsive" width="300" height="300"/>
+                <img src="face (1).jpg" alt=" " class="img-responsive" width="300" height="300"/>
             </div>
             <div class="clearfix"> </div>
         </div>
