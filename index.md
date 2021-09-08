@@ -9,7 +9,7 @@
                     <div class="panel panel-default">
                         <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel">
                             <div class="panel-body panel_text">
-                              <p>I am a senior research assistant at the Federal Reserve Board of Governors, where I am involved in projects related to financial stability and macroeconomics. I studied math and economics at UT Austi n, where I was fortunate to be advised by <a href="https://lberalarts.utexas.edu/economics/faculty/mbs31415/">Max Stinchcombe</a>.</p>
+                              <p>I am a senior research assistant at the Federal Reserve Board of Governors, where I am involved in projects related to financial stability and macroeconomics. I studied math and economics at UT Austin, where I was fortunate to be advised by <a href="https://lberalarts.utexas.edu/economics/faculty/mbs31415/">Max Stinchcombe</a>.</p>
                               <br>
                               <p>I'm generally interested in macroeconomics, in particular equity bubbles and DSGE models.</p>
                             </div>
@@ -39,12 +39,12 @@
 				<div class="footer-grids1-left animated wow slideInLeft">
                     <ul>
 						<li><a href="BrittResume2021.pdf">Resume</a></li>
-						<li><a href=".pdf">Writing Sample</a></li>
+						<li><a href="BrittThesis1.pdf">Senior Thesis: Quasilinear Utility and the Substitutes Condition </a></li>
 						<li>Reading Group Presentations</li>
 			        		<ul>
-      							<li> <a href="">Galí, Jordi. 2014. "Monetary Policy and Rational Asset Price Bubbles."</a></li>
-							<li> <a href = ""> A survey of rational housing bubbles</a></li>
-							<li> <a href = ""> Hazell, et al. 2021 "The Slope of the Phillips Curve: Evidence from U.S. States"</a></li>
+      							<li> <a href="GaliPres.pdf">Galí, Jordi. 2014. "Monetary Policy and Rational Asset Price Bubbles."</a></li>
+							<li> <a href = "BubblesSlides (3).pdf"> A survey of rational housing bubbles</a></li>
+							<li> <a href = "PCPresentation (1).pdf"> Hazell, et al. 2021 "The Slope of the Phillips Curve: Evidence from U.S. States"</a></li>
 
     					
 	
