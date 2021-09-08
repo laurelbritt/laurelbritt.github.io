@@ -31,7 +31,7 @@
 			<div class="footer-grids">
 				<div class="col-md-4 footer-grid animated wow slideInLeft" data-wow-delay="0s">
                     <h3>Contact</h3>
-                    <p>my last name @cs.berkeley.edu</p>
+                    <p>my </p>
 				</div>
                 <div class="clearfix"> </div>
 			</div>
