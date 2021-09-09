@@ -13,17 +13,11 @@
                               <br>
                               <p>I'm generally interested in macroeconomics, in particular equity bubbles and DSGE models.</p>
                             </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+                        
             <div class="col-md-6 about-grids-right animated wow slideInRight" data-wow-delay="0s">
                 <img src="face (2).png" alt=" " class="img-responsive" width="300" height="300"/>
             </div>
-            <div class="clearfix"> </div>
-        </div>
-    </div>
-</div>
+            <div class="clearfix"> 
 <!-- //about -->
 <!-- footer -->
 <div class="footer">
