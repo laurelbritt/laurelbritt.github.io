@@ -36,13 +36,15 @@
 			    			<ul>
 			    				<li><a href="ThesisSample.pdf"> "Endowed Assignment Valuations and Gross 														Substitutability" </a></li>
 						<ul>
-			<li>Reading Group Presentations</li>
+			
+					<ul>
+						<li>Reading Group Presentations</li>
 			        		<ul>
       							<li> <a href="GaliPres.pdf">Galí, Jordi. 2014. "Monetary Policy and Rational Asset Price Bubbles."</a></li>
 							<li> <a href = "BubblesSlides (3).pdf"> A survey on rational housing bubbles</a></li>
 							<li> <a href = "PCPresentation (1).pdf"> Hazell, et al. 2021 "The Slope of the Phillips Curve: Evidence from U.S. 								States"</a></li>
 						<ul>
-					
+					<ul>
 				
 							
 
