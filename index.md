@@ -35,7 +35,7 @@
 					
   					<li><a href="BrittResume221.pdf">Resume</a></li>
  				
-					<li>Excerpt From Honors Thesis
+					<li>Excerpt From Honors Thesis test
     						<ul>
       							<li><a href="ThesisSample.pdf"> "Endowed Assignment Valuations and Gross 														Substitutability" </a></li>
     						</ul>
