@@ -30,7 +30,7 @@
 			</div>
 			<div class="footer-grids1">
 				<div class="footer-grids1-left animated wow slideInLeft">
-                    
+                    			<ul>
 						<li><a href="BrittResume221.pdf">Resume</a></li>
 			    			<li>Excerpt From Honors Thesis</li>
 			    			<ul>
@@ -42,6 +42,7 @@
 							<li> <a href = "BubblesSlides (3).pdf"> A survey on rational housing bubbles</a></li>
 							<li> <a href = "PCPresentation (1).pdf"> Hazell, et al. 2021 "The Slope of the Phillips Curve: Evidence from U.S. 								States"</a></li>
 						<ul>
+					<ul>
 				
 							
 
