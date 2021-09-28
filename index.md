@@ -37,7 +37,7 @@
  				
 					<li>Excerpt From Honors Thesis
     						<ul>
-      						V	<li><a href="ThesisSample.pdf"> "Endowed Assignment Valuations and Gross 														Substitutability" </a></li>
+      							<li><a href="ThesisSample.pdf"> "Endowed Assignment Valuations and Gross 														Substitutability" </a></li>
     						</ul>
   					</li>
  				
@@ -48,7 +48,7 @@
 						<li> <a href = "PCPresentation (1).pdf"> Hazell, et al. 2021 "The Slope of the Phillips Curve: Evidence from U.S. 								States"</a></li>
 					</ul>	
 				<li>
-				<ul>
+				
 
 					
 					
