@@ -30,6 +30,20 @@
 			</div>
 			<div class="footer-grids1">
 				<div class="footer-grids1-left animated wow slideInLeft">
+					
+				<ul>
+  				<li>Coffee</li>
+ 				<li>Tea
+    					<ul>
+      					<li>Black tea</li>
+      					<li>Green tea</li>
+    					</ul>
+  				</li>
+ 				<li>Milk</li>
+				</ul>	
+					
+					
+					
                     			<ul>
 						<li><a href="BrittResume221.pdf">Resume</a></li>
 			    			<li>Excerpt From Honors Thesis
