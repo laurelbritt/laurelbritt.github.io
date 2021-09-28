@@ -32,7 +32,7 @@
 				<div class="footer-grids1-left animated wow slideInLeft">
                     <ul>
 						<li><a href="BrittResume221.pdf">Resume</a></li>
-						<li><a href="BrittThesis1.pdf">Senior Thesis: Quasilinear Utility and the Substitutes Condition </a></li>
+						<li><a href="ThesisSample.pdf">An experpt from my honors thesis: Endowed Assignment Valuations andGross Substitutability </a></li>
 						<li>Reading Group Presentations</li>
 			        		<ul>
       							<li> <a href="GaliPres.pdf">Galí, Jordi. 2014. "Monetary Policy and Rational Asset Price Bubbles."</a></li>
