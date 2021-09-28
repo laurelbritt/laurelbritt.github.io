@@ -35,7 +35,7 @@
 			    			<li>Excerpt From Honors Thesis
 			    				<ul>
 			    				<li><a href="ThesisSample.pdf"> "Endowed Assignment Valuations and Gross 														Substitutability" </a></li>
-						li>
+						<li>
 			
 					
 						<li>Reading Group Presentations
