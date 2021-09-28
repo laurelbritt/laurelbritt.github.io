@@ -32,35 +32,28 @@
 				<div class="footer-grids1-left animated wow slideInLeft">
 					
 				<ul>
-  				<li>Coffee</li>
- 				<li>Tea
-    					<ul>
-      					<li>Black tea</li>
-      					<li>Green tea</li>
-    					</ul>
-  				</li>
- 				<li>Milk</li>
-				</ul>	
 					
-					
-					
-                    			<ul>
-						<li><a href="BrittResume221.pdf">Resume</a></li>
-			    			<li>Excerpt From Honors Thesis
-			    				<ul>
-			    					<li><a href="ThesisSample.pdf"> "Endowed Assignment Valuations and Gross 														Substitutability" </a></li>
-							<ul>
-						<li> Reading Group Presentations
-			        			<ul>
-      								<li> <a href="GaliPres.pdf">Galí, Jordi. 2014. "Monetary Policy and Rational Asset Price Bubbles."</a></li>
-								<li> <a href = "BubblesSlides (3).pdf"> A survey on rational housing bubbles</a></li>
-								<li> <a href = "PCPresentation (1).pdf"> Hazell, et al. 2021 "The Slope of the Phillips Curve: Evidence from U.S. 								States"</a></li>
-							<ul>
-						<li>
-						
+  					<li><a href="BrittResume221.pdf">Resume</a></li>
+ 				
+					<li>Excerpt From Honors Thesis
+    						<ul>
+      						V	<li><a href="ThesisSample.pdf"> "Endowed Assignment Valuations and Gross 														Substitutability" </a></li>
+    						</ul>
+  					</li>
+ 				
+				<li> Reading Group Presentations
+					<ul>
+      						<li> <a href="GaliPres.pdf">Galí, Jordi. 2014. "Monetary Policy and Rational Asset Price Bubbles."</a></li>
+						<li> <a href = "BubblesSlides (3).pdf"> A survey on rational housing bubbles</a></li>
+						<li> <a href = "PCPresentation (1).pdf"> Hazell, et al. 2021 "The Slope of the Phillips Curve: Evidence from U.S. 								States"</a></li>
+					</ul>	
+				<li>
 				<ul>
-						
+
 					
+					
+					
+                    			<
 							
 
     					
