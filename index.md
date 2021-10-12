@@ -11,7 +11,7 @@
                             <div class="panel-body panel_text">
                               <p>I am a senior research assistant at the Federal Reserve Board of Governors, where I am involved in projects related to financial stability and macroeconomics. I studied math and economics at UT Austin.
                               <br>
-                              <p>I'm generally interested in macroeconomics, in particular equity bubbles and DSGE models.</p>
+                              <p>I'm generally interested in mcroeconomics, in particular equity bubbles and DSGE models.</p>
                             
                         
                 <img src="face (2).png" alt=" " class="img-responsive" width="300" height="300"/>
